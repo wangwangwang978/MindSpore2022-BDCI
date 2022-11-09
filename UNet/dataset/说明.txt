@@ -1,0 +1,2 @@
+经过预处理后会生成 *.npy 的2d slices文件 
+!python preprocess_dataset.py --raw_data_path=kits19 --data_path=dataset # 数据预处理 3D -> 2D slices

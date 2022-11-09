@@ -1,0 +1,282 @@
+Starting... 
+2022-11-06 20:52:26.518006: TRAINING KEYS:
+ odict_keys(['kits_case_00000', 'kits_case_00001', 'kits_case_00002', 'kits_case_00003', 'kits_case_00004', 'kits_case_00005', 'kits_case_00006', 'kits_case_00007', 'kits_case_00008', 'kits_case_00009', 'kits_case_00010', 'kits_case_00011', 'kits_case_00012', 'kits_case_00013', 'kits_case_00014', 'kits_case_00015', 'kits_case_00016', 'kits_case_00017', 'kits_case_00018', 'kits_case_00019', 'kits_case_00020', 'kits_case_00021', 'kits_case_00022', 'kits_case_00023', 'kits_case_00024', 'kits_case_00025', 'kits_case_00026', 'kits_case_00027', 'kits_case_00028', 'kits_case_00029', 'kits_case_00030', 'kits_case_00031', 'kits_case_00032', 'kits_case_00033', 'kits_case_00034', 'kits_case_00035', 'kits_case_00036', 'kits_case_00037', 'kits_case_00038', 'kits_case_00039', 'kits_case_00040', 'kits_case_00041', 'kits_case_00042', 'kits_case_00043', 'kits_case_00044', 'kits_case_00045', 'kits_case_00046', 'kits_case_00047', 'kits_case_00048', 'kits_case_00049', 'kits_case_00050', 'kits_case_00051', 'kits_case_00052', 'kits_case_00053', 'kits_case_00054', 'kits_case_00055', 'kits_case_00056', 'kits_case_00057', 'kits_case_00058', 'kits_case_00059', 'kits_case_00060', 'kits_case_00061', 'kits_case_00062', 'kits_case_00063', 'kits_case_00064', 'kits_case_00065', 'kits_case_00066', 'kits_case_00067', 'kits_case_00068', 'kits_case_00069', 'kits_case_00070', 'kits_case_00071', 'kits_case_00072', 'kits_case_00073', 'kits_case_00074', 'kits_case_00075', 'kits_case_00076', 'kits_case_00077', 'kits_case_00078', 'kits_case_00079', 'kits_case_00080', 'kits_case_00081', 'kits_case_00082', 'kits_case_00083', 'kits_case_00084', 'kits_case_00085', 'kits_case_00086', 'kits_case_00087', 'kits_case_00088', 'kits_case_00089', 'kits_case_00090', 'kits_case_00091', 'kits_case_00092', 'kits_case_00093', 'kits_case_00094', 'kits_case_00095', 'kits_case_00096', 'kits_case_00097', 'kits_case_00098', 'kits_case_00099', 'kits_case_00100', 'kits_case_00101', 'kits_case_00102', 'kits_case_00103', 'kits_case_00104', 'kits_case_00105', 'kits_case_00106', 'kits_case_00107', 'kits_case_00108', 'kits_case_00109', 'kits_case_00110', 'kits_case_00111', 'kits_case_00112', 'kits_case_00113', 'kits_case_00114', 'kits_case_00115', 'kits_case_00116', 'kits_case_00117', 'kits_case_00118', 'kits_case_00119', 'kits_case_00120', 'kits_case_00121', 'kits_case_00122', 'kits_case_00123', 'kits_case_00124', 'kits_case_00125', 'kits_case_00126', 'kits_case_00127', 'kits_case_00128', 'kits_case_00129', 'kits_case_00130', 'kits_case_00131', 'kits_case_00132', 'kits_case_00133', 'kits_case_00134', 'kits_case_00135', 'kits_case_00136', 'kits_case_00137', 'kits_case_00138', 'kits_case_00139', 'kits_case_00140', 'kits_case_00141', 'kits_case_00142', 'kits_case_00143', 'kits_case_00144', 'kits_case_00145', 'kits_case_00146', 'kits_case_00147', 'kits_case_00148', 'kits_case_00149', 'kits_case_00150', 'kits_case_00151', 'kits_case_00152', 'kits_case_00153', 'kits_case_00154', 'kits_case_00155', 'kits_case_00156', 'kits_case_00157', 'kits_case_00158', 'kits_case_00159', 'kits_case_00160', 'kits_case_00161', 'kits_case_00162', 'kits_case_00163', 'kits_case_00164', 'kits_case_00165', 'kits_case_00166', 'kits_case_00167', 'kits_case_00168', 'kits_case_00169', 'kits_case_00170', 'kits_case_00171', 'kits_case_00172', 'kits_case_00173', 'kits_case_00174', 'kits_case_00175', 'kits_case_00176', 'kits_case_00177', 'kits_case_00178', 'kits_case_00179', 'kits_case_00180', 'kits_case_00181', 'kits_case_00182', 'kits_case_00183', 'kits_case_00184', 'kits_case_00185', 'kits_case_00186', 'kits_case_00187', 'kits_case_00188', 'kits_case_00189', 'kits_case_00190', 'kits_case_00191', 'kits_case_00192', 'kits_case_00193', 'kits_case_00194', 'kits_case_00195', 'kits_case_00196', 'kits_case_00197', 'kits_case_00198', 'kits_case_00199', 'kits_case_00200', 'kits_case_00201', 'kits_case_00202', 'kits_case_00203', 'kits_case_00204', 'kits_case_00205', 'kits_case_00206', 'kits_case_00207', 'kits_case_00208', 'kits_case_00209']) 
+2022-11-06 20:52:26.518779: VALIDATION KEYS:
+ odict_keys(['kits_case_00000', 'kits_case_00001', 'kits_case_00002', 'kits_case_00003', 'kits_case_00004', 'kits_case_00005', 'kits_case_00006', 'kits_case_00007', 'kits_case_00008', 'kits_case_00009', 'kits_case_00010', 'kits_case_00011', 'kits_case_00012', 'kits_case_00013', 'kits_case_00014', 'kits_case_00015', 'kits_case_00016', 'kits_case_00017', 'kits_case_00018', 'kits_case_00019', 'kits_case_00020', 'kits_case_00021', 'kits_case_00022', 'kits_case_00023', 'kits_case_00024', 'kits_case_00025', 'kits_case_00026', 'kits_case_00027', 'kits_case_00028', 'kits_case_00029', 'kits_case_00030', 'kits_case_00031', 'kits_case_00032', 'kits_case_00033', 'kits_case_00034', 'kits_case_00035', 'kits_case_00036', 'kits_case_00037', 'kits_case_00038', 'kits_case_00039', 'kits_case_00040', 'kits_case_00041', 'kits_case_00042', 'kits_case_00043', 'kits_case_00044', 'kits_case_00045', 'kits_case_00046', 'kits_case_00047', 'kits_case_00048', 'kits_case_00049', 'kits_case_00050', 'kits_case_00051', 'kits_case_00052', 'kits_case_00053', 'kits_case_00054', 'kits_case_00055', 'kits_case_00056', 'kits_case_00057', 'kits_case_00058', 'kits_case_00059', 'kits_case_00060', 'kits_case_00061', 'kits_case_00062', 'kits_case_00063', 'kits_case_00064', 'kits_case_00065', 'kits_case_00066', 'kits_case_00067', 'kits_case_00068', 'kits_case_00069', 'kits_case_00070', 'kits_case_00071', 'kits_case_00072', 'kits_case_00073', 'kits_case_00074', 'kits_case_00075', 'kits_case_00076', 'kits_case_00077', 'kits_case_00078', 'kits_case_00079', 'kits_case_00080', 'kits_case_00081', 'kits_case_00082', 'kits_case_00083', 'kits_case_00084', 'kits_case_00085', 'kits_case_00086', 'kits_case_00087', 'kits_case_00088', 'kits_case_00089', 'kits_case_00090', 'kits_case_00091', 'kits_case_00092', 'kits_case_00093', 'kits_case_00094', 'kits_case_00095', 'kits_case_00096', 'kits_case_00097', 'kits_case_00098', 'kits_case_00099', 'kits_case_00100', 'kits_case_00101', 'kits_case_00102', 'kits_case_00103', 'kits_case_00104', 'kits_case_00105', 'kits_case_00106', 'kits_case_00107', 'kits_case_00108', 'kits_case_00109', 'kits_case_00110', 'kits_case_00111', 'kits_case_00112', 'kits_case_00113', 'kits_case_00114', 'kits_case_00115', 'kits_case_00116', 'kits_case_00117', 'kits_case_00118', 'kits_case_00119', 'kits_case_00120', 'kits_case_00121', 'kits_case_00122', 'kits_case_00123', 'kits_case_00124', 'kits_case_00125', 'kits_case_00126', 'kits_case_00127', 'kits_case_00128', 'kits_case_00129', 'kits_case_00130', 'kits_case_00131', 'kits_case_00132', 'kits_case_00133', 'kits_case_00134', 'kits_case_00135', 'kits_case_00136', 'kits_case_00137', 'kits_case_00138', 'kits_case_00139', 'kits_case_00140', 'kits_case_00141', 'kits_case_00142', 'kits_case_00143', 'kits_case_00144', 'kits_case_00145', 'kits_case_00146', 'kits_case_00147', 'kits_case_00148', 'kits_case_00149', 'kits_case_00150', 'kits_case_00151', 'kits_case_00152', 'kits_case_00153', 'kits_case_00154', 'kits_case_00155', 'kits_case_00156', 'kits_case_00157', 'kits_case_00158', 'kits_case_00159', 'kits_case_00160', 'kits_case_00161', 'kits_case_00162', 'kits_case_00163', 'kits_case_00164', 'kits_case_00165', 'kits_case_00166', 'kits_case_00167', 'kits_case_00168', 'kits_case_00169', 'kits_case_00170', 'kits_case_00171', 'kits_case_00172', 'kits_case_00173', 'kits_case_00174', 'kits_case_00175', 'kits_case_00176', 'kits_case_00177', 'kits_case_00178', 'kits_case_00179', 'kits_case_00180', 'kits_case_00181', 'kits_case_00182', 'kits_case_00183', 'kits_case_00184', 'kits_case_00185', 'kits_case_00186', 'kits_case_00187', 'kits_case_00188', 'kits_case_00189', 'kits_case_00190', 'kits_case_00191', 'kits_case_00192', 'kits_case_00193', 'kits_case_00194', 'kits_case_00195', 'kits_case_00196', 'kits_case_00197', 'kits_case_00198', 'kits_case_00199', 'kits_case_00200', 'kits_case_00201', 'kits_case_00202', 'kits_case_00203', 'kits_case_00204', 'kits_case_00205', 'kits_case_00206', 'kits_case_00207', 'kits_case_00208', 'kits_case_00209']) 
+2022-11-06 20:52:28.036452: lr: 0.01 
+2022-11-06 20:52:28.916373: 
+epoch:  0 
+2022-11-06 20:59:40.164425: train loss : 0.3399 
+2022-11-06 21:00:40.218175: validation loss: 0.0950 
+2022-11-06 21:00:40.219657: Average global foreground Dice: [0.0, 0.0] 
+2022-11-06 21:00:40.219838: (interpret this as an estimate for the Dice of the different classes. This is not exact.) 
+2022-11-06 21:00:40.957716: lr: 0.01 
+2022-11-06 21:00:40.958165: This epoch took 492.041569 s
+ 
+2022-11-06 21:00:40.958296: 
+epoch:  1 
+2022-11-06 21:05:52.820708: train loss : 0.0918 
+2022-11-06 21:06:51.793120: validation loss: 0.0822 
+2022-11-06 21:06:51.794180: Average global foreground Dice: [0.0, 0.0] 
+2022-11-06 21:06:51.794391: (interpret this as an estimate for the Dice of the different classes. This is not exact.) 
+2022-11-06 21:06:52.498275: lr: 0.009991 
+2022-11-06 21:06:52.498730: This epoch took 371.540320 s
+ 
+2022-11-06 21:06:52.498845: 
+epoch:  2 
+2022-11-06 21:12:28.249823: train loss : 0.0860 
+2022-11-06 21:13:27.099983: validation loss: 0.0745 
+2022-11-06 21:13:27.100778: Average global foreground Dice: [0.0, 0.0] 
+2022-11-06 21:13:27.100943: (interpret this as an estimate for the Dice of the different classes. This is not exact.) 
+2022-11-06 21:13:27.790309: lr: 0.009982 
+2022-11-06 21:13:27.790688: This epoch took 395.291728 s
+ 
+2022-11-06 21:13:27.790810: 
+epoch:  3 
+2022-11-06 21:18:50.973783: train loss : 0.0764 
+2022-11-06 21:19:50.480921: validation loss: 0.0703 
+2022-11-06 21:19:50.481778: Average global foreground Dice: [0.0, 0.0] 
+2022-11-06 21:19:50.481958: (interpret this as an estimate for the Dice of the different classes. This is not exact.) 
+2022-11-06 21:19:51.155878: lr: 0.009973 
+2022-11-06 21:19:51.156282: This epoch took 383.365356 s
+ 
+2022-11-06 21:19:51.156407: 
+epoch:  4 
+2022-11-06 21:24:48.188488: train loss : 0.0687 
+2022-11-06 21:25:47.705059: validation loss: 0.0687 
+2022-11-06 21:25:47.705952: Average global foreground Dice: [0.0, 0.0] 
+2022-11-06 21:25:47.707218: (interpret this as an estimate for the Dice of the different classes. This is not exact.) 
+2022-11-06 21:25:48.384750: lr: 0.009964 
+2022-11-06 21:25:48.385127: This epoch took 357.228600 s
+ 
+2022-11-06 21:25:48.385248: 
+epoch:  5 
+2022-11-06 21:31:03.657250: train loss : 0.0663 
+2022-11-06 21:32:02.828156: validation loss: 0.0682 
+2022-11-06 21:32:02.829135: Average global foreground Dice: [0.0105, 0.0] 
+2022-11-06 21:32:02.829295: (interpret this as an estimate for the Dice of the different classes. This is not exact.) 
+2022-11-06 21:32:03.527756: lr: 0.009955 
+2022-11-06 21:32:03.979689: done, saving took 0.45 seconds 
+2022-11-06 21:32:03.995414: This epoch took 375.610054 s
+ 
+2022-11-06 21:32:03.995625: 
+epoch:  6 
+2022-11-06 21:37:09.879898: train loss : 0.0712 
+2022-11-06 21:38:10.266711: validation loss: 0.0496 
+2022-11-06 21:38:10.267497: Average global foreground Dice: [0.0001, 0.0] 
+2022-11-06 21:38:10.267666: (interpret this as an estimate for the Dice of the different classes. This is not exact.) 
+2022-11-06 21:38:10.990946: lr: 0.009946 
+2022-11-06 21:38:10.991315: This epoch took 366.995572 s
+ 
+2022-11-06 21:38:10.991435: 
+epoch:  7 
+2022-11-06 21:43:34.295490: train loss : 0.0529 
+2022-11-06 21:44:34.531802: validation loss: 0.0511 
+2022-11-06 21:44:34.532572: Average global foreground Dice: [0.0006, 0.0] 
+2022-11-06 21:44:34.532724: (interpret this as an estimate for the Dice of the different classes. This is not exact.) 
+2022-11-06 21:44:35.254922: lr: 0.009937 
+2022-11-06 21:44:35.255267: This epoch took 384.263722 s
+ 
+2022-11-06 21:44:35.255385: 
+epoch:  8 
+2022-11-06 21:49:44.695326: train loss : 0.0525 
+2022-11-06 21:50:42.922850: validation loss: 0.0439 
+2022-11-06 21:50:42.923841: Average global foreground Dice: [0.0216, 0.0] 
+2022-11-06 21:50:42.924017: (interpret this as an estimate for the Dice of the different classes. This is not exact.) 
+2022-11-06 21:50:43.674657: lr: 0.009928 
+2022-11-06 21:50:43.983559: done, saving took 0.31 seconds 
+2022-11-06 21:50:43.997852: This epoch took 368.742342 s
+ 
+2022-11-06 21:50:43.998061: 
+epoch:  9 
+2022-11-06 21:55:49.797311: train loss : 0.0493 
+2022-11-06 21:56:47.677128: validation loss: 0.0435 
+2022-11-06 21:56:47.677947: Average global foreground Dice: [0.7518, 0.0] 
+2022-11-06 21:56:47.678100: (interpret this as an estimate for the Dice of the different classes. This is not exact.) 
+2022-11-06 21:56:48.399704: lr: 0.009919 
+2022-11-06 21:56:48.846318: done, saving took 0.45 seconds 
+2022-11-06 21:56:48.861167: This epoch took 364.862976 s
+ 
+2022-11-06 21:56:48.861391: 
+epoch:  10 
+2022-11-06 22:01:22.414656: train loss : 0.0400 
+2022-11-06 22:02:20.802727: validation loss: 0.0332 
+2022-11-06 22:02:20.803820: Average global foreground Dice: [0.8005, 0.0] 
+2022-11-06 22:02:20.803991: (interpret this as an estimate for the Dice of the different classes. This is not exact.) 
+2022-11-06 22:02:21.525805: lr: 0.00991 
+2022-11-06 22:02:22.014106: done, saving took 0.49 seconds 
+2022-11-06 22:02:22.032815: This epoch took 333.171298 s
+ 
+2022-11-06 22:02:22.033048: 
+epoch:  11 
+2022-11-06 22:07:05.643910: train loss : 0.0423 
+2022-11-06 22:08:02.794847: validation loss: 0.0365 
+2022-11-06 22:08:02.795671: Average global foreground Dice: [0.8558, 0.0] 
+2022-11-06 22:08:02.795838: (interpret this as an estimate for the Dice of the different classes. This is not exact.) 
+2022-11-06 22:08:03.513875: lr: 0.009901 
+2022-11-06 22:08:03.900000: done, saving took 0.39 seconds 
+2022-11-06 22:08:03.914313: This epoch took 341.881142 s
+ 
+2022-11-06 22:08:03.914540: 
+epoch:  12 
+2022-11-06 22:12:47.644805: train loss : 0.0410 
+2022-11-06 22:13:46.078071: validation loss: 0.0356 
+2022-11-06 22:13:46.078952: Average global foreground Dice: [0.8295, 0.0] 
+2022-11-06 22:13:46.079124: (interpret this as an estimate for the Dice of the different classes. This is not exact.) 
+2022-11-06 22:13:46.811596: lr: 0.009892 
+2022-11-06 22:13:47.196911: done, saving took 0.38 seconds 
+2022-11-06 22:13:47.211506: This epoch took 343.296840 s
+ 
+2022-11-06 22:13:47.211735: 
+epoch:  13 
+2022-11-06 22:18:32.990319: train loss : 0.0280 
+2022-11-06 22:19:30.990664: validation loss: 0.0206 
+2022-11-06 22:19:30.991641: Average global foreground Dice: [0.8184, 0.0] 
+2022-11-06 22:19:30.991848: (interpret this as an estimate for the Dice of the different classes. This is not exact.) 
+2022-11-06 22:19:31.726460: lr: 0.009883 
+2022-11-06 22:19:32.208987: done, saving took 0.48 seconds 
+2022-11-06 22:19:32.227100: This epoch took 345.015238 s
+ 
+2022-11-06 22:19:32.227340: 
+epoch:  14 
+2022-11-06 22:25:09.416869: train loss : 0.0336 
+2022-11-06 22:26:08.855923: validation loss: 0.0273 
+2022-11-06 22:26:08.856984: Average global foreground Dice: [0.8172, 0.1077] 
+2022-11-06 22:26:08.857256: (interpret this as an estimate for the Dice of the different classes. This is not exact.) 
+2022-11-06 22:26:09.568964: lr: 0.009874 
+2022-11-06 22:26:10.003114: done, saving took 0.43 seconds 
+2022-11-06 22:26:10.017571: This epoch took 397.790105 s
+ 
+2022-11-06 22:26:10.017787: 
+epoch:  15 
+2022-11-06 22:31:03.658005: train loss : 0.0298 
+2022-11-06 22:32:04.632104: validation loss: 0.0265 
+2022-11-06 22:32:04.633004: Average global foreground Dice: [0.734, 0.0] 
+2022-11-06 22:32:04.633178: (interpret this as an estimate for the Dice of the different classes. This is not exact.) 
+2022-11-06 22:32:05.353546: lr: 0.009865 
+2022-11-06 22:32:05.757994: done, saving took 0.40 seconds 
+2022-11-06 22:32:05.773110: This epoch took 355.755200 s
+ 
+2022-11-06 22:32:05.773288: 
+epoch:  16 
+2022-11-06 22:36:52.189105: train loss : 0.0368 
+2022-11-06 22:37:50.674002: validation loss: 0.0241 
+2022-11-06 22:37:50.675176: Average global foreground Dice: [0.8909, 0.0] 
+2022-11-06 22:37:50.675346: (interpret this as an estimate for the Dice of the different classes. This is not exact.) 
+2022-11-06 22:37:51.390428: lr: 0.009856 
+2022-11-06 22:37:51.811071: done, saving took 0.42 seconds 
+2022-11-06 22:37:51.825556: This epoch took 346.052147 s
+ 
+2022-11-06 22:37:51.825770: 
+epoch:  17 
+2022-11-06 22:43:12.440297: train loss : 0.0235 
+2022-11-06 22:44:11.209512: validation loss: 0.0257 
+2022-11-06 22:44:11.210351: Average global foreground Dice: [0.8614, 0.0] 
+2022-11-06 22:44:11.210522: (interpret this as an estimate for the Dice of the different classes. This is not exact.) 
+2022-11-06 22:44:11.921316: lr: 0.009847 
+2022-11-06 22:44:12.922338: done, saving took 1.00 seconds 
+2022-11-06 22:44:12.936386: This epoch took 381.110495 s
+ 
+2022-11-06 22:44:12.936588: 
+epoch:  18 
+2022-11-06 22:49:56.687001: train loss : 0.0241 
+2022-11-06 22:50:53.051841: validation loss: 0.0251 
+2022-11-06 22:50:53.052735: Average global foreground Dice: [0.8847, 0.0] 
+2022-11-06 22:50:53.052903: (interpret this as an estimate for the Dice of the different classes. This is not exact.) 
+2022-11-06 22:50:53.789027: lr: 0.009838 
+2022-11-06 22:50:54.180203: done, saving took 0.39 seconds 
+2022-11-06 22:50:54.194643: This epoch took 401.257935 s
+ 
+2022-11-06 22:50:54.194926: 
+epoch:  19 
+2022-11-06 22:56:28.251458: train loss : 0.0311 
+2022-11-06 22:57:26.312402: validation loss: 0.0198 
+2022-11-06 22:57:26.313260: Average global foreground Dice: [0.8948, 0.0] 
+2022-11-06 22:57:26.313430: (interpret this as an estimate for the Dice of the different classes. This is not exact.) 
+2022-11-06 22:57:27.024605: lr: 0.009829 
+2022-11-06 22:57:27.459312: done, saving took 0.43 seconds 
+2022-11-06 22:57:27.473845: This epoch took 393.278795 s
+ 
+2022-11-06 22:57:27.474092: 
+epoch:  20 
+2022-11-06 23:02:37.706293: train loss : 0.0362 
+2022-11-06 23:03:35.511289: validation loss: 0.0213 
+2022-11-06 23:03:35.512115: Average global foreground Dice: [0.8391, 0.0003] 
+2022-11-06 23:03:35.512287: (interpret this as an estimate for the Dice of the different classes. This is not exact.) 
+2022-11-06 23:03:36.227684: lr: 0.00982 
+2022-11-06 23:03:36.666503: done, saving took 0.44 seconds 
+2022-11-06 23:03:36.680863: This epoch took 369.206646 s
+ 
+2022-11-06 23:03:36.681084: 
+epoch:  21 
+2022-11-06 23:08:39.488550: train loss : 0.0247 
+2022-11-06 23:09:38.972846: validation loss: 0.0273 
+2022-11-06 23:09:38.973657: Average global foreground Dice: [0.8795, 0.0] 
+2022-11-06 23:09:38.973825: (interpret this as an estimate for the Dice of the different classes. This is not exact.) 
+2022-11-06 23:09:39.703461: lr: 0.009811 
+2022-11-06 23:09:40.236442: done, saving took 0.53 seconds 
+2022-11-06 23:09:40.251281: This epoch took 363.570069 s
+ 
+2022-11-06 23:09:40.251493: 
+epoch:  22 
+2022-11-06 23:14:26.953535: train loss : 0.0313 
+2022-11-06 23:15:26.145552: validation loss: 0.0204 
+2022-11-06 23:15:26.146389: Average global foreground Dice: [0.9106, 0.001] 
+2022-11-06 23:15:26.146551: (interpret this as an estimate for the Dice of the different classes. This is not exact.) 
+2022-11-06 23:15:26.850671: lr: 0.009802 
+2022-11-06 23:15:27.294076: done, saving took 0.44 seconds 
+2022-11-06 23:15:27.310656: This epoch took 347.059045 s
+ 
+2022-11-06 23:15:27.310858: 
+epoch:  23 
+2022-11-06 23:20:18.785107: train loss : 0.0249 
+2022-11-06 23:21:18.679975: validation loss: 0.0178 
+2022-11-06 23:21:18.681380: Average global foreground Dice: [0.9123, 0.0007] 
+2022-11-06 23:21:18.681565: (interpret this as an estimate for the Dice of the different classes. This is not exact.) 
+2022-11-06 23:21:19.400382: lr: 0.009793 
+2022-11-06 23:21:19.826252: done, saving took 0.43 seconds 
+2022-11-06 23:21:19.840485: This epoch took 352.529508 s
+ 
+2022-11-06 23:21:19.840717: 
+epoch:  24 
+2022-11-06 23:25:58.407923: train loss : 0.0282 
+2022-11-06 23:26:56.424342: validation loss: 0.0242 
+2022-11-06 23:26:56.425150: Average global foreground Dice: [0.7071, 0.0] 
+2022-11-06 23:26:56.425318: (interpret this as an estimate for the Dice of the different classes. This is not exact.) 
+2022-11-06 23:26:57.128486: lr: 0.009784 
+2022-11-06 23:26:57.469049: done, saving took 0.34 seconds 
+2022-11-06 23:26:57.483215: This epoch took 337.642374 s
+ 
+2022-11-06 23:26:57.483415: 
+epoch:  25 
+2022-11-06 23:31:45.759996: train loss : 0.0243 
+2022-11-06 23:32:44.528378: validation loss: 0.0178 
+2022-11-06 23:32:44.529239: Average global foreground Dice: [0.919, 0.0888] 
+2022-11-06 23:32:44.529431: (interpret this as an estimate for the Dice of the different classes. This is not exact.) 
+2022-11-06 23:32:45.243658: lr: 0.009775 
+2022-11-06 23:32:45.671441: done, saving took 0.43 seconds 
+2022-11-06 23:32:45.690044: This epoch took 348.206505 s
+ 
+2022-11-06 23:32:45.690265: 
+epoch:  26 
+2022-11-06 23:37:08.927028: train loss : 0.0256 
+2022-11-06 23:38:08.805312: validation loss: 0.0226 
+2022-11-06 23:38:08.806291: Average global foreground Dice: [0.7392, 0.0001] 
+2022-11-06 23:38:08.806471: (interpret this as an estimate for the Dice of the different classes. This is not exact.) 
+2022-11-06 23:38:09.557746: lr: 0.009766 
+2022-11-06 23:38:09.965736: done, saving took 0.41 seconds 
+2022-11-06 23:38:09.980636: This epoch took 324.290242 s
+ 
+2022-11-06 23:38:09.980853: 
+epoch:  27 
+2022-11-06 23:43:31.421429: train loss : 0.0223 
+2022-11-06 23:44:30.231248: validation loss: 0.0204 
+2022-11-06 23:44:30.232274: Average global foreground Dice: [0.9359, 0.0456] 
+2022-11-06 23:44:30.232452: (interpret this as an estimate for the Dice of the different classes. This is not exact.) 
+2022-11-06 23:44:30.964974: lr: 0.009757 
+2022-11-06 23:44:31.380113: done, saving took 0.41 seconds 
+2022-11-06 23:44:31.395483: This epoch took 381.414510 s
+ 
+2022-11-06 23:44:31.395688: 
+epoch:  28 
+2022-11-06 23:49:16.369618: train loss : 0.0261 

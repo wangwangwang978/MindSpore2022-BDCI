@@ -1,0 +1,7 @@
+ ├── kits19                            // 原始数据集
+ │   ├──case_00001
+          ├──imaging.nii.gz
+          └──segmentation.nii.gz
+              ……
+ │   ├──case_00299
+          └──imaging.nii.gz
