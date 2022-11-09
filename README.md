@@ -9,5 +9,6 @@
   * 队员5	聂朝上
 ## 模型尝试
 * 1 U-Net
+* 2 nnUNet
 
 ## Please stay tuned!
