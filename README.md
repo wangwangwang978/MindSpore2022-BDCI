@@ -36,7 +36,7 @@
 
 ## Reference Code
 [Kits19数据集项目](https://github.com/neheller/kits19)  
-[Mindspore官方代码](https://github.com/mindspore-ai/models/tree/master/official/cv/unet)  
-[Mindspore官方代码](https://gitee.com/mindspore/models/tree/master/research/cv/nnUNet)  
+[Mindspore UNet官方代码](https://github.com/mindspore-ai/models/tree/master/official/cv/unet)  
+[Mindspore nnUNet官方代码](https://gitee.com/mindspore/models/tree/master/research/cv/nnUNet)  
 [Pytorch U-Net实现](https://github.com/milesial/Pytorch-UNet)  
 [Pytorch nnUNet实现](https://github.com/MIC-DKFZ/nnUNet)
