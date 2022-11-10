@@ -27,6 +27,16 @@
 ![image](https://user-images.githubusercontent.com/67614464/200843556-a15c4e89-a7d2-4604-87e8-a6d173be78c9.png)
 
 ## 模型权重
-* UNet 
-* nnUNet 
-## Please stay tuned!
+[nnUNet和UNet的权值文件](https://drive.google.com/drive/folders/1vtq3vBtIO-xpT18Es9cyBzre7Ts6p15e?usp=sharing)
+## Reference Paper
+[1] Heller N, Sathianathen N, Kalapara A, et al. The kits19 challenge data: 300 kidney tumor cases with clinical context, ct semantic segmentations, and surgical outcomes[J]. arXiv preprint arXiv:1904.00445, 2019.  
+[2] Ronneberger O, Fischer P, Brox T. U-net: Convolutional networks for biomedical image segmentation[C]//International Conference on Medical image computing and computer-assisted intervention. Springer, Cham, 2015: 234-241.  
+[3] Zhou Z, Siddiquee M M R, Tajbakhsh N, et al. Unet++: Redesigning skip connections to exploit multiscale features in image segmentation[J]. IEEE transactions on medical imaging, 2019, 39(6): 1856-1867.  
+[4] Isensee F, Maier-Hein K H. An attempt at beating the 3D U-Net[J]. arXiv preprint arXiv:1908.02182, 2019.
+
+## Reference Code
+[Kits19数据集项目](https://github.com/neheller/kits19)  
+[Mindspore官方代码](https://github.com/mindspore-ai/models/tree/master/official/cv/unet)  
+[Mindspore官方代码](https://gitee.com/mindspore/models/tree/master/research/cv/nnUNet)  
+[Pytorch U-Net实现](https://github.com/milesial/Pytorch-UNet)  
+[Pytorch nnUNet实现](https://github.com/MIC-DKFZ/nnUNet)
