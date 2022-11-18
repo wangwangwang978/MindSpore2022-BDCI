@@ -20,7 +20,7 @@
 * 2 nnUNet 
 * 模型结构
 
-![image](https://user-images.githubusercontent.com/67614464/200980631-103182f2-44d9-425a-9c83-ad9284ab0dd5.png)
+![image](https://user-images.githubusercontent.com/67614464/202658279-27737315-779a-4390-b909-d7a97a8b4810.png)
 
 * Grand Challenge 模型效果
 
